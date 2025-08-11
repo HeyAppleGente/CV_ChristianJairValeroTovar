@@ -1,8 +1,8 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre
-Christian Jair Valero Tovar
+## Christian Jair Valero Tovar
+
 
 **Profesión:**
 Analista y Desarrollador de Software
