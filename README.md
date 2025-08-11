@@ -2,28 +2,52 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+Christian Jair Valero Tovar
+**Profesión:**
+Analista y Desarrollador de Software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:**
+- christianjvt99@gmail.com 
+- **LinkedIn:** 
+- [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+- SENA (2025 - Actualidad)
+    - Aprendiz Analisis y Desarrollo de Software
+    - Html
+    - Css
+    - PHP
+- Conjunto Residencial Los Cristales Etapa I y II (2021 - Actualidad)
+    - Manejo Suite de Office
+    - Mantenimiento de Cómputos
+    - PQRS 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+- SENA (2025 - Actualidad)
+    - Aprendiz Analisis y Desarrollo de Software
+- I.E.D Francisco de Miranda (2017)
+    - Bachiller
 
 ## 💡 Habilidades
 - **Habilidad 1**
+- Bases de Datos
 - **Habilidad 2**
+- Desarrollo Web
 - **Habilidad 3**
+- Metodologías y Herramientas
+
+- ## 💡 Habilidades Blandas
+- Comunicación y Colaboración
+- Liderazgo
+- Adaptabilidad
+- Pensamiento crítico y resolución de problemas
+
+- ## 💡 Habilidades en Diseño y Calidad
+- Diseño de Interfaces (UI/UX)
+- Calidad de Software
+- Despliegue y Pruebas
+
 
 ---
 
