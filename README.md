@@ -3,6 +3,7 @@
 
 ## Nombre Completo
 Christian Jair Valero Tovar
+
 **Profesión:**
 Analista y Desarrollador de Software
 
