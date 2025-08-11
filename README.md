@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Nombre
 Christian Jair Valero Tovar
 
 **Profesión:**
@@ -29,6 +29,8 @@ Analista y Desarrollador de Software
     - Aprendiz Analisis y Desarrollo de Software
 - I.E.D Francisco de Miranda (2017)
     - Bachiller
+- SENA ( 2021 - 2022)
+      - Programación de Software
 
 ## 💡 Habilidades
 - **Habilidad 1**
